@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eran Bolandian</h1>
-<h3 align="center">A software developer</h3>
+<h3 align="center">A Software Developer</h3>
 
 - ✈️ I’m currently working in the **IAF - Israel Air Force as a web developer**
 

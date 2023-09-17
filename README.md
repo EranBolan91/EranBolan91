@@ -5,10 +5,6 @@
 
 - 🧑🏾‍🎓 I'm a 3rd-year student in computer science at **HIT - Holon Institute Of Technology**
 
-- 🌱 I’m currently learning **frameworks like Reactjs and Nextjs**
-
-- 💬 Ask me about **Vanillajs, Python and about my big project which is InstaBot**
-
 - 📫 How to reach me **eranbolan91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

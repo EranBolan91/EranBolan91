@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eran Bolandian</h1>
 <h3 align="center">A software developer</h3>
 
-- 🔭 I’m currently working in the **IAF - Israel Air Force as a web developer**
+- ✈️ I’m currently working in the **IAF - Israel Air Force as a web developer**
 
 - 🧑🏾‍🎓 I'm a 3rd-year student in computer science at **HIT - Holon Institute Of Technology**
 

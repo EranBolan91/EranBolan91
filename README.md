@@ -3,8 +3,6 @@
 
 - ✈️ I’m currently working in the **IAF - Israel Air Force as a web developer**
 
-- 🧑🏾‍🎓 I'm a 3rd-year student in computer science at **HIT - Holon Institute Of Technology**
-
 - 📫 How to reach me **eranbolan91@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
